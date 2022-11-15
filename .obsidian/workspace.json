@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "a606986ebb5c416a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4f902ac49b0f906",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44deb39493a03d72",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "CSC369/T7-Memory-Trace-Analysis.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d4c3e282c1c33fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf9f6d9e9d9ad943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b9744829d0b0234",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1fb65d09ab9e4019",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tage",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c87712cca6c92753",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d828c8df13dcd9bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "56fe6a1809ccc927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc9f87940295f3c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSC369/T7-Memory-Trace-Analysis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ceb3f8be8157373",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSC369/T7-Memory-Trace-Analysis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d75297d8275e23ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cefa927ace744240",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSC369/T7-Memory-Trace-Analysis.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "44deb39493a03d72",
+  "lastOpenFiles": [
+    "CSC369/T7-Memory-Trace-Analysis.md",
+    "CSC369/T7-Memory-Trace-Analysis.pdf",
+    "未命名 1.md",
+    "未命名 2.md",
+    "first note.md",
+    "Annotator.md",
+    "refer to topics1.md",
+    "templates/notes.md",
+    "referencn.md",
+    "2022-11-14.md"
+  ]
+}

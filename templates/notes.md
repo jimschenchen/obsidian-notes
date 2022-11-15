@@ -1,0 +1,5 @@
+- Tags: #note
+- Date: {{date}}
+- Notes: [[first note]]
+- Content:
+	- www
